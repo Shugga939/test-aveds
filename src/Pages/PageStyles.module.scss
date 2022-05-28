@@ -21,10 +21,17 @@
     }
   }
   
-  .cardsContainer{
+  .cardsContainer {
     margin-top: 100px;
     display: flex;
     flex-wrap: wrap;
+
+    .loader {
+      width: 100%;
+      margin-top: 20px;
+      display: flex;
+      justify-content: center;
+    }
   }
 }
 
