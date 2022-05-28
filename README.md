@@ -13,7 +13,7 @@
 ---
 
 ### Тестовые данные для логина 
+*Данные находяться в файле users.json, в папке src. 
  - Email: Ivan123@mail.ru, password : test123
  - Email: Andrey123@mail.ru, password : test123
  - Email: Sergey123@mail.ru, password : test123
-   *Данные находяться в файле users.json, в папке src. 
