@@ -1,0 +1,20 @@
+[
+  {
+     "Email": "Ivan123@mail.ru",
+     "password": "test123",
+     "name": "Иван",
+     "birthday": "12.03.1990"
+   },
+   {
+    "Email": "Andrey123@mail.ru",
+    "password": "test123",
+    "name": "Андрей",
+    "birthday": "12.03.1992"
+  },
+  {
+    "Email": "Sergey123@mail.ru",
+    "password": "test123",
+    "name": "Сергей",
+    "birthday": "12.03.1993"
+  } 
+]

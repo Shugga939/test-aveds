@@ -1,0 +1,16 @@
+.inputContainer {
+  position: relative;
+  border-bottom: 2px solid #adadad;
+  margin: 5px 0;
+  width: 100%;
+
+  .input{
+    width: 100%;
+    padding: 0 5px;
+    height: 30px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+  }
+}
